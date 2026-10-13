@@ -52,3 +52,6 @@ must be parsed again when reloading the exported file.
 Data cleaning involves understanding problems, making justified
 decisions, and verifying changes—not simply deleting every row
 with missing information.
+
+# project url
+https://roadmap.sh/projects/cleaning-netflix-dataset
